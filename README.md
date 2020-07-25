@@ -2,7 +2,8 @@
 
 correr el programa:
 
-1-. Descargar el repositorio completo.
+1-. Descargar el código completo.
+
 2-. Una vez descargado asegurese de tener descargardo Angular, Node.js, Express y Mongodb.
 
 3-. Cambiar una linea de codigo que se encuentra  en C:\Users\jesus\Desktop\todo-list\src\routes\tasks.js
